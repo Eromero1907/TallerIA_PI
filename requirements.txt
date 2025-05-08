@@ -3,3 +3,9 @@ huggingface_hub
 python-dotenv
 numpy
 requests
+python
+pip
+pillow
+matplotlib
+django
+git
